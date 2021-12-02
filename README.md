@@ -1,6 +1,7 @@
 # 6_1_ZABBIX-Prajwol
-Assignment for Zabbix on Week 6 - Day 1
 ## [Assignment's Full PDF Answer with ScreenShots](https://github.com/LF-DevOps-Intern/6_1_zabbix-prajwol-deesirouss/blob/main/Zabbix-answer-PDF.pdf)
+
+Assignment for Zabbix on Week 6 - Day 1
 
 Tasks:
 1. Install Zabbix Server 5 on VM that includes:
