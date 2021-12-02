@@ -1,5 +1,6 @@
 # 6_1_ZABBIX-Prajwol
 Assignment for Zabbix on Week 6 - Day 1
+## [Assignment's Full PDF Answer with ScreenShots](https://github.com/LF-DevOps-Intern/6_1_zabbix-prajwol-deesirouss/blob/main/Zabbix-answer-PDF.pdf)
 
 Tasks:
 1. Install Zabbix Server 5 on VM that includes:
@@ -9,11 +10,14 @@ Tasks:
 - PHP
 - Zabbix Server-Modules for Apache & Database
 - Zabbix Frontend
+## [Task-1's Answer with ScreenShots](https://github.com/LF-DevOps-Intern/6_1_zabbix-prajwol-deesirouss/blob/main/1/1-Install-Zabbix.pdf)
 
 2. Provide screenshot of
 - Running Zabbix Server service,
 - Database config parameter in server config file
 - Server Dashboard
+## [Task-2's ScreenShots](https://github.com/LF-DevOps-Intern/6_1_zabbix-prajwol-deesirouss/blob/main/2/2-ScreenShot.pdf)
+
 
 3. Install Latest Zabbix Agent on VM or host machine or server itself to fetch logs, steps include:
 - Run as active check agent
@@ -22,7 +26,8 @@ Tasks:
 - Fetch those logs from the host (Make sure required permissions are set for zabbix-agent to
 pull logs)
 - Provide agent configuration file & screenshots for target machine graph & logs
-
+## [Task-3's Answer with ScreenShots](https://github.com/LF-DevOps-Intern/6_1_zabbix-prajwol-deesirouss/blob/main/3/3-zabbix-agent.pdf)
+### [agent configuration file](https://github.com/LF-DevOps-Intern/6_1_zabbix-prajwol-deesirouss/blob/main/3/zabbix_agentd.conf)
 * Please check shared slides for any reference *
 
 
